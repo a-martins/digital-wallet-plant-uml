@@ -1,7 +1,7 @@
 # Digital Wallet Plant UML Diagram
 
-## This project is a task from the Microservice Artchitecture course from Full Cycle Course.
-### This was created using Plant UML, C4 Model, and PlantUML VSCode extension.
+This project is a task from the Microservice Artchitecture course from Full Cycle Course.
+This was created using Plant UML, C4 Model, and PlantUML VSCode extension.
 
 # Final Result
 
